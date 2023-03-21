@@ -1,2 +1,2 @@
-# Examen-Dise-o-Web-II
+# Examen-Diseno-Web-II
 Examen II
